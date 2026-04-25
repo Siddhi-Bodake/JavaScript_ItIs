@@ -23,7 +23,7 @@ a();
 
 //anonymous function
 
-function () {
+function a() {
     console.log("c");
 
 }
